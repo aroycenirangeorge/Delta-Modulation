@@ -85,3 +85,6 @@ plt.show()
 ## RESULT  
 THUS, THE DELTA MODULATION SIGNAL IS PERFORMED USING PYTHON.
 
+## HARDWARE EXPERIMENT- OUTPUT GRAPH
+![WhatsApp Image 2025-05-01 at 22 44 11_2f727174](https://github.com/user-attachments/assets/d135050a-801b-4a1c-b41b-775c25c46f01)
+
